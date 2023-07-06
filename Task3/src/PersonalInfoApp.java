@@ -8,8 +8,8 @@ import java.util.Scanner;
 public class PersonalInfoApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите свою личную информацию (пример: Иванов Иван Иванович " +
-                "12.03.1990 1234567890 m), разделяя ее пробелом:");
+        System.out.println("Введите информацию о человеке (пример: Иванов Иван Иванович " +
+                "10.03.1999 1234567890 m), разделяя ее пробелом:");
         String input = scanner.nextLine();
         scanner.close();
 
