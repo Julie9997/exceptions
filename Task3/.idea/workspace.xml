@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d811448a-57bd-487d-980c-6f9aa1930908" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonalInfoApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="d811448a-57bd-487d-980c-6f9aa1930908" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2SCdMTk5WvKzu4G6lLG5kRIoWOv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688654450666</updated>
       <workItem from="1688654451721" duration="1305000" />
-      <workItem from="1688657604986" duration="399000" />
+      <workItem from="1688657604986" duration="1641000" />
     </task>
     <servers />
   </component>
